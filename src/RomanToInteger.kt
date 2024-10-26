@@ -1,5 +1,5 @@
 fun main() {
-    var result =  RomanToInteger("MCMXCIV").toString()
+    var result = RomanToInteger("MCMXCIV").toString()
     println(result)
 }
 
